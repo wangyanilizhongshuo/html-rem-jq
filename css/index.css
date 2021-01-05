@@ -1,0 +1,18 @@
+body ,.h5-container{
+    height:100%;
+    background-color:#1A2030;
+}
+.box{
+    position: relative;
+    left:0px;
+    top:0px;
+}
+.bf{
+    width: 40%;
+    text-align: center;
+    position: absolute;
+    left:30%;
+    bottom:5%;
+    font-size: 16px;
+    color:#fff;
+}
